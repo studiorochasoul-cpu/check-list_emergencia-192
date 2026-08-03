@@ -1,0 +1,20 @@
+{
+  "name": "Check-list 192 Macaé",
+  "short_name": "SAMU 192",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "./icone.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
